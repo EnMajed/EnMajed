@@ -57,7 +57,6 @@
 - ### Backend:
 <code>  <img title="Laravel" alt="Laravel" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="42px"/></code>
 <code> <img title="Node.js" alt="Nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="42px"/> </code>
-height="42px"/></code>
 <code> <img title="RESTful APIs" alt="RESTful APIs" src="https://miro.medium.com/v2/resize:fit:440/1*J3G3akaMpUOLegw0p0qthA.png" height="42px"/> </code>
 <code> <img title="Stripe" alt="Stripe" src="https://freelogopng.com/images/all_img/1685814539stripe-icon-png.png" height="42px"/> </code>
 <code> <img title="Prisma" alt="Prisma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="42px"/> </code>
