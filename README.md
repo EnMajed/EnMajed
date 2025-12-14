@@ -7,14 +7,19 @@
 
 
 <p style="text-align: justify; margin: 0 50px; font-size: 17px;">
-  <p>I’m a Full-Stack Developer with 3+ years of experience building complete, end-to-end web applications using <b>PHP</b>, <b>Laravel</b>, <b>React</b>, <b>Next.js</b>, <b>Node.js</b>, and <b>TypeScript</b>.</p>
 
-  <p>From database architecture to backend logic and responsive UI, I specialize in building platforms that are not just functional — but <b>high-performing ⚡</b>, <b>scalable 📈</b>, and <b>easy to maintain 🛠️</b>.</p>
+  <p>I’m a <b>Backend Developer</b> with 3+ years of experience building secure, scalable, and high-performance web applications using <b>PHP</b> and <b>Laravel</b>.</p>
 
-  <p>I take pride in managing the entire software development lifecycle — from requirement analysis, clean design, structured coding, and testing 🧪, to smart caching strategies, efficient deployment 🚀, and continuous performance optimization 🔄.</p>
+  <p>I specialize in developing <b>RESTful APIs</b>, authentication and authorization systems, caching strategies, automated testing 🧪, and clean backend architecture that keeps applications fast ⚡ and reliable.</p>
 
-  <p>I believe that writing great software isn't just about solving problems — it's about creating systems that grow, evolve, and make an impact. That’s the kind of work I do, and that’s the kind of work I love.</p>
+  <p>My experience includes designing and developing <b>Admin Dashboards</b>, structuring and optimizing relational databases (<b>MySQL</b>, <b>SQL Server</b>), and managing hosting environments, deployments 🚀, and performance optimization.</p>
+
+  <p>While my primary focus is Backend development, I am also familiar with <b>React</b>, <b>Next.js</b>, and <b>TypeScript</b>, which helps me collaborate effectively across the full development workflow when needed.</p>
+
+  <p>I believe that great backend systems are the backbone of every successful platform — systems that are maintainable 🛠️, scalable 📈, and built to evolve. That’s the kind of work I’m passionate about delivering.</p>
+
 </p>
+
 
 
 <br/>
