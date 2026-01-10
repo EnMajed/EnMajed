@@ -49,7 +49,7 @@ Configured and customized a full-featured Bagisto e-commerce platform, redesigne
 
 ![Bagisto Spare Parts Screenshot](assets/projects/bagisto-spareparts.jpeg)
 
-![Bagisto Spare Parts Dashboard Screenshot](assets/projects/bagisto-spareparts-dashboard.jpeg)
+![Bagisto Spare Parts Dashboard Screenshot](assets/projects/bagisto-spareparts-dashboard.jfif)
 
 ---
 ### 3) Benaa Organization — Admin Manara Dashboard + APIs + AI Integration
@@ -81,11 +81,13 @@ Admin dashboard to manage SMS competitions: reporting & filtering over 6M+ recor
 ### 6) Orient Co. — CMS + Jobs & Applications
 Company website with a CMS, job listings, and an application flow.  
 **Stack:** Laravel  
-**Links:** Live: [Demo WebSite](https://bps-sec.com)
+**Links:** Live: [Demo Website](https://bps-sec.com)
+
+![Orient Website Screenshot](assets/projects/orient-website.jpeg)
 
 ![Orient Dashboard Screenshot](assets/projects/orient-dashboard.jpeg)
 
-![Orient Website Screenshot](assets/projects/orient-website.jpeg)
+
 
 ---
 
