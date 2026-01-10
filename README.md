@@ -27,6 +27,93 @@
 <!--## ⌨️ Feeding 
 ![Snake animation](https://raw.githubusercontent.com/programmersEmperor/programmersEmperor/output/github-contribution-grid-snake-dark.svg) -->
 
+## Projects
+
+> Some projects are client-owned/private. I can share more details or a demo upon request.
+
+---
+
+### 1) MaskAPI Platform (SaaS)
+A SaaS platform that helps developers and businesses customize API response formats for endpoints.  
+**Stack:** Next.js (Frontend) + Laravel (Admin Panel & Backend)  
+**Links:** Live: [Demo](https://maskapi.dev/)
+
+![MaskAPI Screenshot](assets/projects/Mask-API.jpeg)
+
+---
+
+### 2) Automotive Spare Parts E-Commerce (Bagisto)
+Configured and customized a full-featured Bagisto e-commerce platform, redesigned the storefront, and deployed with full testing.  
+**Stack:** Laravel + Vue.js + Bagisto  
+**Links:** Live: [Demo Store](https://titcparts.com/)
+
+![Bagisto Spare Parts Screenshot](assets/projects/bagisto-spareparts.jpeg)
+
+![Bagisto Spare Parts Dashboard Screenshot](assets/projects/bagisto-spareparts-dashboard.jpeg)
+
+---
+### 3) Benaa Organization — Admin Manara Dashboard + APIs + AI Integration
+Built an SPA admin dashboard (Laravel/Livewire + Flux UI) with secure REST APIs, optimized database + RBAC, and AI integration (prompt engineering) to improve performance and UX.  
+**Stack:** Laravel (Backend) + Admin Dashboard  
+
+![Manara Screenshot](assets/projects/manara-dashboard.jfif)
+
+---
+
+### 4) Arab Builders Holding — Company Website
+Company website showcasing information, services, and projects with a responsive UI.  
+**Stack:** Laravel (Backend) + Tailwind CSS (UI)  
+**Links:** Live: [Demo](https://abcholding.com.sa/)
+
+![Arab Builders Screenshot](assets/projects/arab-bulding.jpeg)
+
+
+---
+
+### 5) Yemen TV — SMS Competition Admin Dashboard
+Admin dashboard to manage SMS competitions: reporting & filtering over 6M+ records, participant draws, winners, and lottery management.  
+**Stack:** Laravel  
+
+![SMS Competition Screenshot](assets/projects/SMS-Competition.jpeg)
+
+---
+
+### 6) Orient Co. — CMS + Jobs & Applications
+Company website with a CMS, job listings, and an application flow.  
+**Stack:** Laravel  
+**Links:** Live: [Demo WebSite](https://bps-sec.com)
+
+![Orient Dashboard Screenshot](assets/projects/orient-dashboard.jpeg)
+
+![Orient Website Screenshot](assets/projects/orient-website.jpeg)
+
+---
+
+### 7) Yemen TV (Yemen Satellite Channel) — Admin Dashboard
+Admin panel built to manage the channel’s website content (news, videos, categories, and publishing workflow).  
+**Stack:** Laravel  
+
+![Yemen TV Dashboard Screenshot](assets/projects/yemen-tv-dashboard.jpeg)
+
+---
+
+### 8) VAS Platform — Admin Dashboard (Value-Added Services)
+Admin dashboard for managing VAS operations, including customer accounts, service packages, 
+and messaging workflows with telecom integrations.  
+**Stack:** Laravel  
+
+
+![VAS Screenshot](assets/projects/vas-dashboard.jpeg)
+
+---
+
+### 9) LightNas Pharma — Website + Blog/Comments (Dashboard Contribution)
+Pharmaceutical company website showcasing products/services/departments with blogs and a commenting system; my contribution included building the dashboard.  
+**Stack:** Laravel  
+
+![LightNas Screenshot](assets/projects/LightNas.jpeg)
+
+
 
 <br/>
 
