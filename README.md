@@ -64,7 +64,45 @@ Integrated payment gateways, messaging and email services, AI-powered features, 
 **Links:** [Official Website](https://profly.tech/)
 
 <!-- ![ProFly Platform Screenshot](assets/projects/profly-platform.png) -->
-
+<!-- ProFly Screenshots Gallery -->
+<table>
+  <tr>
+    <td rowspan="2" width="55%" valign="middle">
+      <a href="assets/projects/profly-platform.png">
+        <img src="assets/projects/profly-platform.png" width="100%" alt="ProFly Main Dashboard">
+      </a>
+    </td>
+    <td width="22.5%">
+      <a href="assets/projects/profly-platform6.png">
+        <img src="assets/projects/profly-platform6.png" width="100%" alt="ProFly Screenshot 2">
+      </a>
+    </td>
+    <td width="22.5%">
+      <a href="assets/projects/profly-platform3.png">
+        <img src="assets/projects/profly-platform3.png" width="100%" alt="ProFly Screenshot 3">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="assets/projects/profly-platform4.png">
+        <img src="assets/projects/profly-platform4.png" width="100%" alt="ProFly Screenshot 4">
+      </a>
+    </td>
+    <td>
+      <a href="assets/projects/profly-platform5.png">
+        <img src="assets/projects/profly-platform5.png" width="100%" alt="ProFly Screenshot 5">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3">
+      <a href="assets/projects/profly-platform2.png">
+        <img src="assets/projects/profly-platform2.png" width="100%" alt="ProFly Screenshot 6">
+      </a>
+    </td>
+  </tr>
+</table>
 ---
 
 ### 3) MaskAPI Platform (SaaS)
