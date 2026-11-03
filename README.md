@@ -5,17 +5,17 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:majedalmo925@gmail.com)
 
 
-<p align="justify">
+<div align="justify">
 
-  <p>I'm a <b>Full-Stack Developer with a strong focus on Backend Engineering </b> with <b>4+ years of experience</b> building web applications and platforms from the ground up, as well as developing and optimizing existing systems using <b>PHP and Laravel</b>.</p>
+  <p>I'm a <b>Full-Stack Developer with a strong focus on Backend Engineering</b>, with <b>4+ years of experience</b> building web applications and platforms from the ground up, as well as developing and optimizing existing systems using <b>PHP and Laravel</b>.</p>
 
-  <p>My primary focus is <b>Backend Engineering</b>, including RESTful APIs, authentication and authorization, database design and optimization, background jobs, and automated testing 🧪.</p>
+  <p>My backend expertise includes <b>RESTful APIs, authentication and authorization, database design and optimization, background jobs, and automated testing</b> 🧪.</p>
 
-  <p>On the frontend, I work with <b>Vue.js, JavaScript, and Tailwind CSS</b>, with additional experience in React.js, Next.js, and TypeScript.</p>
+  <p>On the frontend, I work with <b>Vue.js, JavaScript, and Tailwind CSS</b>, with additional experience in <b>React.js, Next.js, and TypeScript</b>.</p>
 
   <p>I also have hands-on experience integrating <b>AI-powered features</b>, payment gateways, messaging services, and video streaming, alongside CI/CD, server deployments, and cloud infrastructure. Currently, I'm developing an enterprise CRM at <b>Elevenz</b>, and previously built the backend of <b>ProFly</b> from the ground up.</p>
 
-</p>
+</div>
 
 
 
