@@ -42,7 +42,8 @@ Contributing to the development and optimization of an enterprise CRM system, wo
 
 **Stack:** Laravel + Vue.js + Tailwind CSS + MySQL + MariaDB + OpenRouter + OCR + Queues & Jobs.
 
-<!-- ![Elevenz CRM Screenshot](assets/projects/elevenz-crm.png) -->
+
+ ![Elevenz CRM Screenshot](assets/projects/elevenz.png) 
 
 ---
 
